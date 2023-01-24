@@ -1,4 +1,4 @@
-##### This is my basic OS Project!
+### This is my basic OS Project!
 
 **Required softwares:**
 1. Cross GCC Compiler `i686-elf-gcc` (if your prefix is "i386", change that in the MakeFile)
