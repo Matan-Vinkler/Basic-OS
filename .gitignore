@@ -1,0 +1,11 @@
+*.bin
+
+boot/*.o
+boot/*.bin
+
+cpu/*.o
+drivers/*.o
+kernel/*.o
+libc/*.o
+
+.vscode/
